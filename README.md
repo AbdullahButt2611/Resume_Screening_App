@@ -61,7 +61,7 @@ Following are some of the new features and learning encountered while creating t
 
 
 
-### GUI
+### Graphical User Interface
 ![GUI for this Project](demo.png)
 
 
